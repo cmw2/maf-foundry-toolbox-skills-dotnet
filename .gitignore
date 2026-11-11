@@ -1,0 +1,12 @@
+bin/
+obj/
+results/
+.azure/
+.env
+.env.*
+!.env.example
+.vs/
+*.user
+*.suo
+*.pfx
+*.key

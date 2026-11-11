@@ -1,0 +1,7 @@
+{
+  "description": "Isolated synthetic demo: a local .NET agent loads a Foundry skill and invokes a local function.",
+  "skills": [
+    { "name": "local-advising-proof", "version": "1" }
+  ],
+  "tools": []
+}
